@@ -2,7 +2,7 @@
 import botogram, requests, json, time
 
 #menentukan API dan deskripsi bot
-bot = botogram.create("5252104681:AAHTel2qn2qF1WdJOdSnt3kYo2zLGBey_LM")
+bot = botogram.create("TOKEN API TELEGRAM")
 bot.about = "bot ini dalam masa pembuatan"
 bot.after_help = ["Bot ini bertujuan untuk pencarian data rumah sakit di wilayah Kota Sidoarjo",]
 bot.owner = "@Ancoent009"
